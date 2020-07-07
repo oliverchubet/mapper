@@ -1,0 +1,12 @@
+syntax:glob
+gui_config.json
+run.sh
+*.pyc
+cmappertools/.git
+cmappertools/build
+cmappertools/dist
+cmappertools/cmappertools.egg-info
+doc/build
+build
+dist
+mapper.egg-info
